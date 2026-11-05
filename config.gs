@@ -16,7 +16,7 @@
 
 // Kosongkan jika script dibuat dari Extensions > Apps Script di dalam spreadsheet.
 // Isi dengan ID spreadsheet jika script dibuat sebagai project terpisah.
-const SPREADSHEET_ID = '1UO14HbYhYrNELDkYtnXeir86aT95isItorfSumP4wQw';
+const SPREADSHEET_ID = '';
 
 const SHEET = {
   HARGA: 'Harga_Bahan',
